@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://10.55.150.112:9000",
+  "Organization": null,
+  "ProjectKey": "MZ_ServiciosCreditoApiCliente-KEY",
+  "ProjectName": "MZ_ServiciosCreditoApiCliente",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AYWC3QAT6c5RQgKhHKpC",
+      "ProfileTimestamp": "2023-01-05T16:56:39Z"
+    }
+  }
+}
